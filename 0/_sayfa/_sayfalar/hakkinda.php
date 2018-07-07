@@ -1,0 +1,3 @@
+<p>Türk Silahlı Kuvvetlerini Güçlendirme Vakfının %98 hisse ile sahibi olduğu ASPİLSAN A.Ş. Kayseri’li vatandaşların yaptıkları bağışlarla 21 Mayıs 1981 tarihinde Organize Sanayi Bölgesinde kurulmuştur.</p><br />
+<p>Kuruluş amacı Türk Silahlı Kuvvetlerinin temel ihtiyaçları olan Şarjlı Nikel – Kadmiyum Batarya ihtiyaçlarını karşılamak olan şirketimiz geçen süre içerisinde büyük gelişmeler sağlayarak günümüzde ürün çeşidini 100‘ün üzerine çıkartarak, Sivil ve Askeri her türlü Sırt-El telsizleri, savaş araç gereçleri, Elektronik – Optronik Sistemleri, Uçak ve Helikopter için Komple Aküler üretebilir duruma gelmiştir.</p>
+<p>Şirketimiz halen ülkemizin ilk ve tek Nikel – Kadmiyum, N-MH ve lityum İon batarya bloğu üreticisidir.</p>

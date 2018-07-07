@@ -1,0 +1,982 @@
+			<div class="welcome-box">
+				<div class="container">
+					<h1>Hello And Welcome To <span>Convertible</span></h1>
+					<p>We’re an interactive agency specialising in lean UX and intelligent product and identity design</p>
+				</div>
+			</div>
+
+			<!-- services-box -->
+			<div class="services-box">
+				<div class="container">
+					<div class="row">
+
+						<div class="col-md-4">
+							<div class="services-post">
+								<a class="services-icon1" href="#"><i class="fa fa-cogs"></i></a>
+								<div class="services-post-content">
+									<h4>Multipurpose</h4>
+									<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-md-4">
+							<div class="services-post">
+								<a class="services-icon2" href="#"><i class="fa fa-desktop"></i></a>
+								<div class="services-post-content">
+									<h4>Flexible Design</h4>
+									<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-md-4">
+							<div class="services-post">
+								<a class="services-icon3" href="#"><i class="fa fa-book"></i></a>
+								<div class="services-post-content">
+									<h4>Extended Docs</h4>
+									<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis</p>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+				<img class="shadow-image" alt="" src="images/shadow.png">
+			</div>
+
+			<!-- recent-works-box -->
+			<div class="recent-works">
+				<div class="container">
+					<h3>Recent Works</h3>
+					<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+
+						<!-- Wrapper for slides -->
+						<div class="carousel-inner">
+
+							<div class="item active">
+								<div class="row">
+
+									<div class="col-md-3">
+										<div class="work-post">
+											<div class="work-post-gal">
+												<img alt="" src="upload/image1.jpg">
+												<div class="hover-box">
+													<a class="zoom video" href="http://www.youtube.com/watch?v=XSGBVzeBUbk"></a>
+													<a class="page" href="single-project.html"></a>
+												</div>
+											</div>
+											<div class="work-post-content">
+												<h5>Iphone Wallpaper</h5>
+												<span>smartphones</span>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-md-3">
+										<div class="work-post">
+											<div class="work-post-gal">
+												<img alt="" src="upload/image2.jpg">
+												<div class="hover-box">
+													<a class="zoom" href="upload/image2.jpg"></a>
+													<a class="page" href="single-project.html"></a>
+												</div>
+											</div>
+											<div class="work-post-content">
+												<h5>Green Leaf Falling Dawn</h5>
+												<span>nature</span>
+											</div>										
+										</div>
+									</div>
+
+									<div class="col-md-3">
+										<div class="work-post">
+											<div class="work-post-gal">
+												<img alt="" src="upload/image3.jpg">
+												<div class="hover-box">
+													<a class="zoom video" href="http://www.youtube.com/watch?v=6v2L2UGZJAM"></a>
+													<a class="page" href="single-project.html"></a>
+												</div>
+											</div>
+											<div class="work-post-content">
+												<h5>Beautiful Wallpaper</h5>
+												<span>wallpaper</span>
+											</div>										
+										</div>
+									</div>
+
+									<div class="col-md-3">
+										<div class="work-post">
+											<div class="work-post-gal">
+												<img alt="" src="upload/image4.jpg">
+												<div class="hover-box">
+													<a class="zoom" href="upload/image4.jpg"></a>
+													<a class="page" href="single-project.html"></a>
+												</div>
+											</div>
+											<div class="work-post-content">
+												<h5>Futuristic Office Design</h5>
+												<span>furniture</span>
+											</div>										
+										</div>
+									</div>
+
+								</div>
+							</div>
+
+							<div class="item">
+								<div class="row">
+
+									<div class="col-md-3">
+										<div class="work-post">
+											<div class="work-post-gal">
+												<img alt="" src="upload/image1.jpg">
+												<div class="hover-box">
+													<a class="zoom video" href="http://vimeo.com/45878034"></a>
+													<a class="page" href="single-project.html"></a>
+												</div>
+											</div>
+											<div class="work-post-content">
+												<h5>Iphone Wallpaper</h5>
+												<span>smartphones</span>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-md-3">
+										<div class="work-post">
+											<div class="work-post-gal">
+												<img alt="" src="upload/image2.jpg">
+												<div class="hover-box">
+													<a class="zoom" href="upload/image2.jpg"></a>
+													<a class="page" href="single-project.html"></a>
+												</div>
+											</div>
+											<div class="work-post-content">
+												<h5>Green Leaf Falling Dawn</h5>
+												<span>nature</span>
+											</div>										
+										</div>
+									</div>
+
+									<div class="col-md-3">
+										<div class="work-post">
+											<div class="work-post-gal">
+												<img alt="" src="upload/image3.jpg">
+												<div class="hover-box">
+													<a class="zoom" href="upload/image3.jpg"></a>
+													<a class="page" href="single-project.html"></a>
+												</div>
+											</div>
+											<div class="work-post-content">
+												<h5>Beautiful Wallpaper</h5>
+												<span>wallpaper</span>
+											</div>										
+										</div>
+									</div>
+
+									<div class="col-md-3">
+										<div class="work-post">
+											<div class="work-post-gal">
+												<img alt="" src="upload/image4.jpg">
+												<div class="hover-box">
+													<a class="zoom" href="upload/image4.jpg"></a>
+													<a class="page" href="single-project.html"></a>
+												</div>
+											</div>
+											<div class="work-post-content">
+												<h5>Futuristic Office Design</h5>
+												<span>furniture</span>
+											</div>										
+										</div>
+									</div>
+
+								</div>
+
+							</div>
+
+						</div>
+
+						<!-- Controls -->
+						<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev"></a>
+						<a class="right carousel-control" href="#carousel-example-generic" data-slide="next"></a>
+					</div>
+				</div>
+			</div>
+
+			<!-- partners box -->
+			<div class="partners">
+				<div class="container">
+					<h3>Partners</h3>
+					<div id="carousel-example-generic2" class="carousel slide" data-ride="carousel">
+
+						<!-- Wrapper for slides -->
+						<div class="carousel-inner">
+
+							<div class="item active">
+								<ul class="partner-list">
+									<li><img alt="" src="images/partners.png"></li>
+									<li><img alt="" src="images/partners.png"></li>
+									<li><img alt="" src="images/partners.png"></li>
+									<li><img alt="" src="images/partners.png"></li>
+									<li><img alt="" src="images/partners.png"></li>
+								</ul>
+							</div>
+
+							<div class="item">
+								<ul class="partner-list">
+									<li><img alt="" src="images/partners.png"></li>
+									<li><img alt="" src="images/partners.png"></li>
+									<li><img alt="" src="images/partners.png"></li>
+									<li><img alt="" src="images/partners.png"></li>
+									<li><img alt="" src="images/partners.png"></li>
+								</ul>
+							</div>
+
+						</div>
+
+						<!-- Controls -->
+						<a class="left carousel-control" href="#carousel-example-generic2" data-slide="prev"></a>
+						<a class="right carousel-control" href="#carousel-example-generic2" data-slide="next"></a>
+					</div>
+					
+				</div>
+			</div>
+
+			<!-- Latest Post -->
+			<div class="latest-post">
+				<div class="title-section">
+					<h1>Latest Post</h1>
+					<p>clean horizontal post scroller for your creative website</p>
+				</div>
+				<div id="owl-demo" class="owl-carousel owl-theme">
+          
+					<div class="item news-item">
+						<div class="inner-item">
+							<img alt="" src="upload/photo1.jpg">
+							<div class="hover-item">
+								<ul>
+									<li><a class="autor" href="#"><i class="fa fa-user"></i> TrendyStuff</a></li>
+									<li><a class="date" href="#"><i class="fa fa-clock-o"></i> 19 October, 2013</a></li>
+									<li><a class="comment-numb" href="#"><i class="fa fa-comments"></i> 16 Comments</a></li>
+								</ul>
+							</div>
+						</div>
+						<h5>Killing the author quiz but no let up on the review process</h5>
+						<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit </p>
+						<a class="read-more" href="single-post.html">read more <i class="fa fa-arrow-right"></i></a>
+					</div>
+					<div class="item news-item">
+						<div class="inner-item">
+							<img alt="" src="upload/photo2.jpg">
+							<div class="hover-item">
+								<ul>
+									<li><a class="autor" href="#"><i class="fa fa-user"></i> TrendyStuff</a></li>
+									<li><a class="date" href="#"><i class="fa fa-clock-o"></i> 19 October, 2013</a></li>
+									<li><a class="comment-numb" href="#"><i class="fa fa-comments"></i> 16 Comments</a></li>
+								</ul>
+							</div>
+						</div>
+						<h5>Killing the author quiz but no let up on the review process</h5>
+						<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit </p>
+						<a class="read-more" href="single-post.html">read more <i class="fa fa-arrow-right"></i></a>
+						
+					</div>
+					<div class="item news-item">
+						<div class="inner-item">
+							<img alt="" src="upload/photo3.jpg">
+							<div class="hover-item">
+								<ul>
+									<li><a class="autor" href="#"><i class="fa fa-user"></i> TrendyStuff</a></li>
+									<li><a class="date" href="#"><i class="fa fa-clock-o"></i> 19 October, 2013</a></li>
+									<li><a class="comment-numb" href="#"><i class="fa fa-comments"></i> 16 Comments</a></li>
+								</ul>
+							</div>
+						</div>
+						<h5>Killing the author quiz but no let up on the review process</h5>
+						<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit</p>
+						<a class="read-more" href="single-post.html">read more <i class="fa fa-arrow-right"></i></a>
+						
+					</div>
+					<div class="item news-item">
+						<div class="inner-item">
+							<img alt="" src="upload/photo1.jpg">
+							<div class="hover-item">
+								<ul>
+									<li><a class="autor" href="#"><i class="fa fa-user"></i> TrendyStuff</a></li>
+									<li><a class="date" href="#"><i class="fa fa-clock-o"></i> 19 October, 2013</a></li>
+									<li><a class="comment-numb" href="#"><i class="fa fa-comments"></i> 16 Comments</a></li>
+								</ul>
+							</div>
+						</div>
+						<h5>Killing the author quiz but no let up on the review process</h5>
+						<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit</p>
+						<a class="read-more" href="single-post.html">read more <i class="fa fa-arrow-right"></i></a>
+						
+					</div>
+					<div class="item news-item">
+						<div class="inner-item">
+							<img alt="" src="upload/photo2.jpg">
+							<div class="hover-item">
+								<ul>
+									<li><a class="autor" href="#"><i class="fa fa-user"></i> TrendyStuff</a></li>
+									<li><a class="date" href="#"><i class="fa fa-clock-o"></i> 19 October, 2013</a></li>
+									<li><a class="comment-numb" href="#"><i class="fa fa-comments"></i> 16 Comments</a></li>
+								</ul>
+							</div>
+						</div>
+						<h5>Killing the author quiz but no let up on the review process</h5>
+						<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit</p>
+						<a class="read-more" href="single-post.html">read more <i class="fa fa-arrow-right"></i></a>
+						
+					</div>
+					<div class="item news-item">
+						<div class="inner-item">
+							<img alt="" src="upload/photo3.jpg">
+							<div class="hover-item">
+								<ul>
+									<li><a class="autor" href="#"><i class="fa fa-user"></i> TrendyStuff</a></li>
+									<li><a class="date" href="#"><i class="fa fa-clock-o"></i> 19 October, 2013</a></li>
+									<li><a class="comment-numb" href="#"><i class="fa fa-comments"></i> 16 Comments</a></li>
+								</ul>
+							</div>
+						</div>
+						<h5>Killing the author quiz but no let up on the review process</h5>
+						<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit</p>
+						<a class="read-more" href="single-post.html">read more <i class="fa fa-arrow-right"></i></a>
+						
+					</div>
+					<div class="item news-item">
+						<div class="inner-item">
+							<img alt="" src="upload/photo1.jpg">
+							<div class="hover-item">
+								<ul>
+									<li><a class="autor" href="#"><i class="fa fa-user"></i> TrendyStuff</a></li>
+									<li><a class="date" href="#"><i class="fa fa-clock-o"></i> 19 October, 2013</a></li>
+									<li><a class="comment-numb" href="#"><i class="fa fa-comments"></i> 16 Comments</a></li>
+								</ul>
+							</div>
+						</div>
+						<h5>Killing the author quiz but no let up on the review process</h5>
+						<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit</p>
+						<a class="read-more" href="single-post.html">read more <i class="fa fa-arrow-right"></i></a>
+						
+					</div>
+					<div class="item news-item">
+						<div class="inner-item">
+							<img alt="" src="upload/photo2.jpg">
+							<div class="hover-item">
+								<ul>
+									<li><a class="autor" href="#"><i class="fa fa-user"></i> TrendyStuff</a></li>
+									<li><a class="date" href="#"><i class="fa fa-clock-o"></i> 19 October, 2013</a></li>
+									<li><a class="comment-numb" href="#"><i class="fa fa-comments"></i> 16 Comments</a></li>
+								</ul>
+							</div>
+						</div>
+						<h5>Killing the author quiz but no let up on the review process</h5>
+						<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit</p>
+						<a class="read-more" href="single-post.html">read more <i class="fa fa-arrow-right"></i></a>
+						
+					</div>
+				 
+				</div>
+			</div>
+
+			<!-- WHY convertible box -->
+			<div class="why-convertible-box">
+				<div class="container">
+					<div class="upper-box">
+						<div class="row">
+							<div class="col-md-6">
+								<h1>Why choose <span>Convertible</span><i class="fa fa-question-circle"></i></h1>
+								<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. <a href="#">Duis sed</a> odio sit amet nibh vulputate cursus a sit amet mauris. </p>
+								<p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. </p>
+							</div>
+							<div class="col-md-6">
+								<ul class="tag-list">
+									<li><a href="#"><i class="fa fa-check-circle"></i>fully responsive</a></li>
+									<li><a href="#"><i class="fa fa-check-circle"></i>localisation support</a></li>
+									<li><a href="#"><i class="fa fa-check-circle"></i>semantic and clean html/css</a></li>
+									<li><a href="#"><i class="fa fa-check-circle"></i>woocomerce support</a></li>
+									<li><a href="#"><i class="fa fa-check-circle"></i>custom widgets</a></li>
+									<li><a href="#"><i class="fa fa-check-circle"></i>filterable portfolio</a></li>
+									<li><a href="#"><i class="fa fa-check-circle"></i>+600 google fonts</a></li>
+									<li><a href="#"><i class="fa fa-check-circle"></i>ajax contact form</a></li>
+									<li><a href="#"><i class="fa fa-check-circle"></i>powerful admin</a></li>
+									<li><a href="#"><i class="fa fa-check-circle"></i>layered psd's</a></li>
+									<li><a href="#"><i class="fa fa-check-circle"></i>cooming soon page</a></li>
+									<li><a href="#"><i class="fa fa-check-circle"></i>retina ready</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="down-box">
+						<ul class="device-list">
+							<li><img alt="" src="images/device1.png"></li>
+							<li class="device2"><img alt="" src="images/device2.png"></li>
+							<li class="device3"><img alt="" src="images/device3.png"></li>
+							<li class="device4"><img alt="" src="images/device4.png"></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<!-- client-testimonials -->
+			<div class="testimonials-box">
+				<div class="container">
+					<h3>Client Testimonials</h3>
+				</div>
+				<ul class="bxslider">
+					<li>
+						<div class="container">
+							<img alt="" src="images/client.png">
+							<div class="message-content">
+								<p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum,</p>
+								<h6>John Smith, CEO at <span>Envato</span></h6>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="container">
+							<img alt="" src="images/client.png">
+							<div class="message-content">
+								<p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum,</p>
+								<h6>John Smith, CEO at <span>Envato</span></h6>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="container">
+							<img alt="" src="images/client.png">
+							<div class="message-content">
+								<p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum,</p>
+								<h6>John Smith, CEO at <span>Envato</span></h6>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+
+			<!-- staff-box -->
+			<div class="staff-box">
+				<div class="container">
+					<h3>Our Staff</h3>
+					<div id="carousel-example-generic3" class="carousel slide" data-ride="carousel">
+
+						<!-- Wrapper for slides -->
+						<div class="carousel-inner">
+
+							<div class="item active">
+								<div class="row">
+									<div class="col-md-3">
+										<div class="staff-post">
+											<div class="staff-post-content">
+												<h5>Owen Miller</h5>
+												<span>manager</span>
+											</div>
+											<div class="staff-post-gal">
+												<ul class="staf-social">
+													<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+													<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+													<li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li>
+													<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
+													<li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+													<li><a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a></li>
+												</ul>
+												<img alt="" src="upload/team1.jpg">
+											</div>
+										</div>
+									</div>
+									<div class="col-md-3">
+										<div class="staff-post">
+											<div class="staff-post-content">
+												<h5>Owen Miller</h5>
+												<span>manager</span>
+											</div>
+											<div class="staff-post-gal">
+												<ul class="staf-social">
+													<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+													<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+													<li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li>
+													<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
+													<li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+													<li><a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a></li>
+												</ul>
+												<img alt="" src="upload/team2.jpg">
+											</div>
+										</div>
+									</div>
+									<div class="col-md-3">
+										<div class="staff-post">
+											<div class="staff-post-content">
+												<h5>Owen Miller</h5>
+												<span>manager</span>
+											</div>
+											<div class="staff-post-gal">
+												<ul class="staf-social">
+													<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+													<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+													<li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li>
+													<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
+													<li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+													<li><a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a></li>
+												</ul>
+												<img alt="" src="upload/team3.jpg">
+											</div>
+										</div>
+									</div>
+									<div class="col-md-3">
+										<div class="staff-post">
+											<div class="staff-post-content">
+												<h5>Owen Miller</h5>
+												<span>manager</span>
+											</div>
+											<div class="staff-post-gal">
+												<ul class="staf-social">
+													<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+													<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+													<li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li>
+													<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
+													<li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+													<li><a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a></li>
+												</ul>
+												<img alt="" src="upload/team4.jpg">
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="item">
+								<div class="row">
+									<div class="col-md-3">
+										<div class="staff-post">
+											<div class="staff-post-content">
+												<h5>Owen Miller</h5>
+												<span>manager</span>
+											</div>
+											<div class="staff-post-gal">
+												<ul class="staf-social">
+													<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+													<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+													<li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li>
+													<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
+													<li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+													<li><a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a></li>
+												</ul>
+												<img alt="" src="upload/team1.jpg">
+											</div>
+										</div>
+									</div>
+									<div class="col-md-3">
+										<div class="staff-post">
+											<div class="staff-post-content">
+												<h5>Owen Miller</h5>
+												<span>manager</span>
+											</div>
+											<div class="staff-post-gal">
+												<ul class="staf-social">
+													<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+													<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+													<li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li>
+													<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
+													<li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+													<li><a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a></li>
+												</ul>
+												<img alt="" src="upload/team2.jpg">
+											</div>
+										</div>
+									</div>
+									<div class="col-md-3">
+										<div class="staff-post">
+											<div class="staff-post-content">
+												<h5>Owen Miller</h5>
+												<span>manager</span>
+											</div>
+											<div class="staff-post-gal">
+												<ul class="staf-social">
+													<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+													<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+													<li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li>
+													<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
+													<li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+													<li><a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a></li>
+												</ul>
+												<img alt="" src="upload/team3.jpg">
+											</div>
+										</div>
+									</div>
+									<div class="col-md-3">
+										<div class="staff-post">
+											<div class="staff-post-content">
+												<h5>Owen Miller</h5>
+												<span>manager</span>
+											</div>
+											<div class="staff-post-gal">
+												<ul class="staf-social">
+													<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+													<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+													<li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li>
+													<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
+													<li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+													<li><a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a></li>
+												</ul>
+												<img alt="" src="upload/team4.jpg">
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+						</div>
+						<!-- Controls -->
+						<a class="left carousel-control" href="#carousel-example-generic3" data-slide="prev">
+							<span class="glyphicon glyphicon-chevron-left"></span>
+						</a>
+						<a class="right carousel-control" href="#carousel-example-generic3" data-slide="next">
+							<span class="glyphicon glyphicon-chevron-right"></span>
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="infographic-box">
+				<div class="container">
+					<h3>Some Infographic Elements</h3>
+					<ul class="gender-list">
+						<li><a href="#"><i class="fa fa-male"></i></a></li>
+						<li><a href="#"><i class="fa fa-male"></i></a></li>
+						<li><a href="#"><i class="fa fa-male"></i></a></li>
+						<li><a href="#"><i class="fa fa-male"></i></a></li>
+						<li><a href="#"><i class="fa fa-male"></i></a></li>
+						<li><a href="#"><i class="fa fa-male"></i></a></li>
+						<li><a href="#"><i class="fa fa-male"></i></a></li>
+						<li><a href="#"><i class="fa fa-male"></i></a></li>
+						<li><a href="#"><i class="fa fa-male"></i></a></li>
+						<li><a href="#"><i class="fa fa-male"></i></a></li>
+						<li><a href="#"><i class="fa fa-male"></i></a></li>
+						<li><a href="#"><i class="fa fa-female"></i></a></li>
+						<li><a href="#"><i class="fa fa-female"></i></a></li>
+						<li><a href="#"><i class="fa fa-female"></i></a></li>
+						<li><a href="#"><i class="fa fa-female"></i></a></li>
+						<li><a href="#"><i class="fa fa-female"></i></a></li>
+					</ul>
+					<ul class="stars-list">
+						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="#"><i class="fa fa-star"></i></a></li>
+					</ul>
+
+					<div class="skills-bar">
+						<div class="row">
+							<div class="col-md-2">
+								<div id="circle" data-percent="50"></div>
+								<p>Circular Progress Bar</p>
+							</div>
+							<div class="col-md-2">
+								<div id="circle2" data-percent="39"></div>
+								<p>Circular Progress Bar</p>
+							</div>
+							<div class="col-md-2">
+								<div id="circle3" data-percent="90"></div>
+								<p>Circular Progress Bar</p>
+							</div>
+							<div class="col-md-2">
+								<div id="circle4" data-percent="60"></div>
+								<p>Circular Progress Bar</p>
+							</div>
+							<div class="col-md-2">
+								<div id="circle5" data-percent="80"></div>
+								<p>Circular Progress Bar</p>
+							</div>
+							<div class="col-md-2">
+								<div id="circle6" data-percent="45"></div>
+								<p>Circular Progress Bar</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- Product Box -->
+			<div class="product-box">
+				<div class="container">
+					<h3>Our Products</h3>
+					<div id="carousel-example-generic4" class="carousel slide" data-ride="carousel">
+
+						<!-- Wrapper for slides -->
+						<div class="carousel-inner">
+
+							<div class="item active">
+								<div class="row">
+									<div class="col-md-3">
+										<div class="product-post">
+											<div class="product-post-gal">
+												<img alt="" src="upload/image1.jpg">
+												<span class="price">$99.00</span>
+											</div>
+											<div class="product-post-content">
+												<h5>Product Name Here</h5>
+												<ul class="product-list">
+													<li><a class="like" href="#"><i class="fa fa-heart"></i></a></li>
+													<li><a class="shop" href="#"><i class="fa fa-shopping-cart"></i></a></li>
+													<li><a class="rev" href="#"><i class="fa fa-exchange"></i></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-md-3">
+										<div class="product-post">
+											<div class="product-post-gal">
+												<img alt="" src="upload/image5.jpg">
+												<span class="price">$30.00</span>
+											</div>
+											<div class="product-post-content">
+												<h5>Product Name Here</h5>
+												<ul class="product-list">
+													<li><a class="like" href="#"><i class="fa fa-heart"></i></a></li>
+													<li><a class="shop" href="#"><i class="fa fa-shopping-cart"></i></a></li>
+													<li><a class="rev" href="#"><i class="fa fa-exchange"></i></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-md-3">
+										<div class="product-post">
+											<div class="product-post-gal">
+												<img alt="" src="upload/image6.jpg">
+												<span class="price">$60.00</span>
+											</div>
+											<div class="product-post-content">
+												<h5>Product Name Here</h5>
+												<ul class="product-list">
+													<li><a class="like" href="#"><i class="fa fa-heart"></i></a></li>
+													<li><a class="shop" href="#"><i class="fa fa-shopping-cart"></i></a></li>
+													<li><a class="rev" href="#"><i class="fa fa-exchange"></i></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-md-3">
+										<div class="product-post">
+											<div class="product-post-gal">
+												<img alt="" src="upload/image7.jpg">
+												<span class="price">$55.00</span>
+											</div>
+											<div class="product-post-content">
+												<h5>Product Name Here</h5>
+												<ul class="product-list">
+													<li><a class="like" href="#"><i class="fa fa-heart"></i></a></li>
+													<li><a class="shop" href="#"><i class="fa fa-shopping-cart"></i></a></li>
+													<li><a class="rev" href="#"><i class="fa fa-exchange"></i></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="item">
+								<div class="row">
+									<div class="col-md-3">
+										<div class="product-post">
+											<div class="product-post-gal">
+												<img alt="" src="upload/image7.jpg">
+												<span class="price">$99.00</span>
+											</div>
+											<div class="product-post-content">
+												<h5>Product Name Here</h5>
+												<ul class="product-list">
+													<li><a class="like" href="#"><i class="fa fa-heart"></i></a></li>
+													<li><a class="shop" href="#"><i class="fa fa-shopping-cart"></i></a></li>
+													<li><a class="rev" href="#"><i class="fa fa-exchange"></i></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-md-3">
+										<div class="product-post">
+											<div class="product-post-gal">
+												<img alt="" src="upload/image6.jpg">
+												<span class="price">$30.00</span>
+											</div>
+											<div class="product-post-content">
+												<h5>Product Name Here</h5>
+												<ul class="product-list">
+													<li><a class="like" href="#"><i class="fa fa-heart"></i></a></li>
+													<li><a class="shop" href="#"><i class="fa fa-shopping-cart"></i></a></li>
+													<li><a class="rev" href="#"><i class="fa fa-exchange"></i></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-md-3">
+										<div class="product-post">
+											<div class="product-post-gal">
+												<img alt="" src="upload/image5.jpg">
+												<span class="price">$60.00</span>
+											</div>
+											<div class="product-post-content">
+												<h5>Product Name Here</h5>
+												<ul class="product-list">
+													<li><a class="like" href="#"><i class="fa fa-heart"></i></a></li>
+													<li><a class="shop" href="#"><i class="fa fa-shopping-cart"></i></a></li>
+													<li><a class="rev" href="#"><i class="fa fa-exchange"></i></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-md-3">
+										<div class="product-post">
+											<div class="product-post-gal">
+												<img alt="" src="upload/image1.jpg">
+												<span class="price">$55.00</span>
+											</div>
+											<div class="product-post-content">
+												<h5>Product Name Here</h5>
+												<ul class="product-list">
+													<li><a class="like" href="#"><i class="fa fa-heart"></i></a></li>
+													<li><a class="shop" href="#"><i class="fa fa-shopping-cart"></i></a></li>
+													<li><a class="rev" href="#"><i class="fa fa-exchange"></i></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+						</div>
+
+						<!-- Controls -->
+						<a class="left carousel-control" href="#carousel-example-generic4" data-slide="prev"></a>
+						<a class="right carousel-control" href="#carousel-example-generic4" data-slide="next"></a>
+					</div>
+				</div>
+			</div>
+
+			<!-- Convertible-banner -->
+			<div class="convertible-banner">
+				<div class="container">
+					<a href="#">Learn More</a>
+					<p><span>Convertible</span> The most complete PSD Template with pixel perfect design available only on themeforest</p>
+				</div>
+			</div>
+
+			<!-- accord-tabs box -->
+			<div class="accord-tab-box">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6">
+							<h3>Content With Accordion</h3>
+							<div class="accordion-box">
+
+								<div class="accord-elem active">
+									<div class="accord-title">
+										<h5><i class="fa fa-question"></i>Marketplace Basics</h5>
+										<a class="accord-link" href="#"></a>
+									</div>
+									<div class="accord-content">
+										<span class="image-content"><i class="fa fa-suitcase"></i></span>
+										<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio</p>
+									</div>
+								</div>
+
+								<div class="accord-elem">
+									<div class="accord-title">
+										<h5><i class="fa fa-question"></i>Marketplace Basics</h5>
+										<a class="accord-link" href="#"></a>
+									</div>
+									<div class="accord-content">
+										<span class="image-content"><i class="fa fa-suitcase"></i></span>
+										<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio</p>
+									</div>
+								</div>
+
+								<div class="accord-elem">
+									<div class="accord-title">
+										<h5><i class="fa fa-question"></i>Marketplace Basics</h5>
+										<a class="accord-link" href="#"></a>
+									</div>
+									<div class="accord-content">
+										<span class="image-content"><i class="fa fa-suitcase"></i></span>
+										<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio</p>
+									</div>
+								</div>
+
+								<div class="accord-elem">
+									<div class="accord-title">
+										<h5><i class="fa fa-question"></i>Marketplace Basics</h5>
+										<a class="accord-link" href="#"></a>
+									</div>
+									<div class="accord-content">
+										<span class="image-content"><i class="fa fa-suitcase"></i></span>
+										<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio</p>
+									</div>
+								</div>
+
+								<div class="accord-elem">
+									<div class="accord-title">
+										<h5><i class="fa fa-question"></i>Marketplace Basics</h5>
+										<a class="accord-link" href="#"></a>
+									</div>
+									<div class="accord-content">
+										<span class="image-content"><i class="fa fa-suitcase"></i></span>
+										<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio</p>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+
+						<div class="col-md-6">
+							<h3>Awesome Tabs</h3>
+
+							<div class="tab-box">
+								<div class="tab-content active">
+									<img alt="" src="images/icon7.png">
+								</div>
+								<div class="tab-content">
+									<img alt="" src="images/icon7.png">
+								</div>
+								<div class="tab-content">
+									<img alt="" src="images/icon7.png">
+								</div>
+							</div>
+							<ul class="tab-links">
+								<li><a class="tab-link1 active" href="#"><i class="fa fa-cog"></i> Powerful Admin</a></li>
+								<li><a class="tab-link2" href="#"><i class="fa fa-picture-o"></i> Retina Ready</a></li>
+								<li><a class="tab-link3" href="#"><i class="fa fa-leaf"></i> Pixel Perfect</a></li>
+							</ul>
+						</div>
+
+					</div>
+				</div>
+			</div>
+<?php
+$rapor = "SAYFA\n";
+$rapor .= "ID : ".$icerik["id"]."\n";
+
+if ($url[0] == "") include("0/_sayfa/_sayfalar/_anasayfa.php");
+
+echo $icerik["icerik"];
+$url = explode("/",substr($_SERVER["REQUEST_URI"],1));
+if (file_exists("0/_sayfa/_sayfalar/".$url[0].".php")) include("0/_sayfa/_sayfalar/".$url[0].".php");
+?>

@@ -1,0 +1,147 @@
+﻿body {
+<?php if ($ata["mobil"]) { ?>
+max-width:400px;
+<?php
+} else {
+?>
+
+<?php } ?>
+ color:#4f4f4f;
+ background-image:url(/dosyalar/arkaplan.png);
+ background-color:#f8f8f8;
+ background-attachment:fixed;
+ margin-left:<?php echo $ata["mobil"]?"0":"5%"; ?>;
+ margin-right:<?php echo $ata["mobil"]?"0":"5%"; ?>;
+ font-family: "Helvetica", "Segoe UI", "Segoe", "atafont", "Tahoma", "Arial", "sans-serif";
+}
+
+input[type=text], input[type=submit], textarea {
+ border:1px solid #dddddd;
+ font-size:<?php echo $ata["mobil"]?"13px":"18px"; ?>;
+ border-radius:<?php echo $ata["mobil"]?"2px":"5px"; ?>;
+ -webkit-border-radius:<?php echo $ata["mobil"]?"2px":"5px"; ?>;
+ -moz-border-radius:<?php echo $ata["mobil"]?"2px":"5px"; ?>;
+ box-shadow:none;
+ font-family: "Helvetica", "Segoe UI", "Segoe", "Tahoma", "Arial", "sans-serif";
+}
+
+input[type=text]:focus, textarea:focus{
+ border:1px solid #5577ff;
+ box-shadow:0px 4px 8px 0px rgba(0, 0, 0, 0.2),0px 8px 8px -6px rgba(0, 0, 0, 0.5);
+}
+
+input[type=text]:hover, textarea:hover{
+ border:1px solid #005dff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+ color:#0f49ff;
+ margin-left:5px;
+ font-weight:bold;
+}
+
+h1, h2, h3 {
+ padding:3px;
+ margin:3px;
+ position:static;
+ width:100%;
+ left:0;
+}
+
+h1 {
+ font-size: 36px
+}
+h2 {
+ font-size: 30px
+}
+h3 {
+ font-size: 24px
+}
+h4 {
+ font-size: 20px
+}
+h5 {
+ font-size: 18px
+}
+h6 {
+ font-size: 16px
+}
+
+.sayfa_bas {
+ position:<?php echo $ata["mobil"]?"inherit":"inherit"; ?>;
+ top:0;
+ margin-bottom:0px;
+ margin-left:<?php echo $ata["mobil"]?"5px":"10%"; ?>;
+ margin-right:<?php echo $ata["mobil"]?"5px":"10%"; ?>;
+ padding-left:<?php echo $ata["mobil"]?"2px":"10px"; ?>;
+ padding-right:<?php echo $ata["mobil"]?"2px":"10px"; ?>;
+ padding-top:1px;
+ padding-bottom:5px;
+ font-size:<?php echo $ata["mobil"]?"10px":"16px"; ?>;
+ background-color:white;
+ border-bottom:<?php echo $ata["mobil"]?"1px":"3px"; ?> solid #ffffff;
+ box-shadow:0px 4px 8px 0px rgba(0, 0, 0, 0.2),0px 8px 8px -6px rgba(0, 0, 0, 0.5);
+}
+
+.sayfa_bas ul {
+ display:inline;
+ margin-bottom:0;
+}
+
+@font-face {
+ font-family: atafont;
+ src: url(/dosyalar/yazitiplari/heltivica.woff);
+ font-weight: bold;
+} 
+
+.sayfa_bas ul li {
+ display:inline;
+ float:left;
+ padding:0;
+ margin-bottom:0;
+ -webkit-transition: width .35s ease-in-out;
+ transition: width .35s ease-in-out;
+}
+
+.sayfa_bas ul li a {
+ color:black;
+ display:block;
+ padding:10px;
+ font-weight:bold;
+ text-decoration:none;
+ background-color:transparent;
+ margin-bottom:0;
+ -webkit-transition: width .35s ease-in-out;
+ transition: width .35s ease-in-out;
+}
+
+.sayfa_bas ul li:hover a {
+ color:white;
+ background-color:#5577ff;
+ box-shadow:0px 4px 8px 0px rgba(0, 0, 0, 0.2),0px 8px 8px -6px rgba(0, 0, 0, 0.5);
+}
+
+.sayfa_icerik {
+ margin-left:<?php echo $ata["mobil"]?"5px":"10%"; ?>;
+ margin-right:<?php echo $ata["mobil"]?"5px":"10%"; ?>;
+ padding-left:<?php echo $ata["mobil"]?"2px":"10px"; ?>;
+ padding-right:<?php echo $ata["mobil"]?"2px":"10px"; ?>;
+ padding-bottom:<?php echo $ata["mobil"]?"3px":"10px"; ?>;
+ box-shadow:0px 4px 8px 0px rgba(0, 0, 0, 0.2),0px 8px 8px -6px rgba(0, 0, 0, 0.5);
+ background-color:white;
+}
+
+.sayfa_son {
+ position:<?php echo $ata["mobil"]?"inherit":"inherit"; ?>;
+ left:0;
+ bottom:0;
+ width:100%;
+ margin:0;
+ padding-left:<?php echo $ata["mobil"]?"3px":"15%"; ?>;
+ padding-right:<?php echo $ata["mobil"]?"3px":"15%"; ?>;
+ padding-top:<?php echo $ata["mobil"]?"1px":"5px"; ?>;
+ padding-bottom:<?php echo $ata["mobil"]?"1px":"5px"; ?>;
+ font-size:<?php echo $ata["mobil"]?"10px":"12px"; ?>;
+ background-color:#5577ff;
+ color:white;
+}
